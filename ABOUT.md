@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @timu924
-- 👀 I’m interested in Friday Night Funkin
+- 👋 Hi, I’m @timu-dev
+- 👀 I’m interested in Undertale, Minecraft and many others. 
 - 🌱 I’m currently learning (nothing :[)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to contact me: timurpaukov3@gmail.com
+- 📫 How to contact me: timudevv@gmail.com
 
 <!---
 timu924/timu924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
