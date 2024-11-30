@@ -2,7 +2,7 @@
 
 I'm **timudev**, a guy who is starting his way into programming. I enjoy Minecraft, Undertale, Celeste, Cuphead and many more.
 
-# That default GitHub list
+### That default GitHub list
 
 - 🔭 I’m currently working on the Arcanum mod for Minecraft
 - 🌱 I’m currently learning C# and Java
